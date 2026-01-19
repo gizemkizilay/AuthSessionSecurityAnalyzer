@@ -1,0 +1,18 @@
+{
+  "projectName": "Auth Session Security Analyzer",
+  "category": "Web Security / Pentesting",
+  "author": "Gizem Kızılay",
+  "version": "1.0.0",
+  "description": "Web uygulamalarındaki oturum yönetimi zafiyetlerini analiz eden araç.",
+  "features": [
+    "Cookie Security Flag Check",
+    "Session Timeout Analysis",
+    "IDOR Vulnerability Testing",
+    "Brute-force Session ID Detection"
+  ],
+  "requirements": {
+    "os": "Linux/Unix or macOS",
+    "language": "Python 3.10",
+    "dependencies": "requests, beautifulsoup4"
+  }
+}

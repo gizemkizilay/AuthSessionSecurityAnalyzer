@@ -1,0 +1,15 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam (Virtual Environment)
+venv/
+env/
+
+# Gizli değişkenler
+.env
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
